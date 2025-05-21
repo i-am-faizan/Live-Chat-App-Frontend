@@ -5,6 +5,7 @@ import Register from "./pages/register";
 import Home from "./pages/Home";
 import Message from "./pages/Message";
 import  GetUsers from "./pages/getUsers";
+import "./App.css";
 
 function App() {
   return (
